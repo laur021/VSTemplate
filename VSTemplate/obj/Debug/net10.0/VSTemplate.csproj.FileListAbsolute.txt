@@ -193,3 +193,4 @@ D:\VSTemplate\VSTemplate\obj\Debug\net10.0\refint\VSTemplate.dll
 D:\VSTemplate\VSTemplate\obj\Debug\net10.0\VSTemplate.pdb
 D:\VSTemplate\VSTemplate\obj\Debug\net10.0\VSTemplate.genruntimeconfig.cache
 D:\VSTemplate\VSTemplate\obj\Debug\net10.0\ref\VSTemplate.dll
+D:\VSTemplate\VSTemplate\obj\Debug\net10.0\VSTemplate.sourcelink.json

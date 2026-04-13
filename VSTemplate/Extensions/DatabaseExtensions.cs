@@ -11,7 +11,7 @@ namespace VSTemplate.Extensions
 
             services.AddDbContext<ApplicationDbContext>(options =>
             {
-                options.UseNpgsql(configuration.GetConnectionString("connection"));
+                options.UseSqlite(configuration.GetConnectionString("connection"));
             });
 
             return services;

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VSTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ee27a04071291dd26c30e6b9ea53bf431c38ec2")]
 [assembly: System.Reflection.AssemblyProductAttribute("VSTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VSTemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
